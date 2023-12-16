@@ -15,6 +15,11 @@ export const styles = StyleSheet.create({
     color: "#6B6B6B",
     fontSize: 16,
   },
+  listEmptyText: {
+    color: "#FDFCFE",
+    fontSize: 14,
+    textAlign: "center",
+  },
   input: {
     flex: 1,
     height: 56,
